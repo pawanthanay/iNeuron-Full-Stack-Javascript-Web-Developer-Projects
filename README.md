@@ -3,7 +3,7 @@
 
 | # Sno |                                                                       Projects                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01    |                                                             [Street Style Landing Page](https://ineuronstreet.netlify.app/)                                                             | https://github.com/pawanthanay/street_landingpage |
+| 01    |                                                             [Street Style Landing Page](https://ineuronstreet.netlify.app/)                                                             | 
 | 02    |                                               [Food Restaurant Home Page](https://ineuronrestaurent.netlify.app/)                                                |
 | 03    |                             [Law Home Page](https://ineuronlaw.netlify.app/)                             |
 | 04    |                                            [Digital Marketing Homepage](https://ineurondigital.netlify.app/)                                             |
